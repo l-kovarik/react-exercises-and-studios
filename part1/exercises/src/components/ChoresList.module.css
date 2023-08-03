@@ -2,9 +2,11 @@
    color: rgb(15, 53, 223);
    font: Georgia;
    font-style: italic;
+   list-style: none;
 }
 
 .choresHeading {
    color: black;
    text-decoration-line: underline;
+   background-color: pink;
 }
