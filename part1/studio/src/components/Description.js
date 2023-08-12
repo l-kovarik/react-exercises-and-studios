@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './Description.module.css';
 
+
 function RecipeAuthor() {
     let authorLink = "https://www.gimmesomeoven.com/";
     let authorPhoto = "https://www.gimmesomeoven.com/images/about-new-round.jpg"
@@ -23,7 +24,7 @@ class RecipeDescription extends React.Component {
       
        return (
         <div> 
-        <div>
+        <div className = {styles.top}>
            <h1>Creamy Tortellini and Sausage Soup</h1>
            <p>This Creamy Tortellini and Sausage Soup is quick and easy to make, full of great flavor, and so rich and creamy and comforting.</p>
         </div>
