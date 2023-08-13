@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "title": "Flower Bed Revamp",
+      "description": "Redesigning the front yard flower bed.",
+      "image": "flower-bed.jpg",
+      "date": "2023-08-15"
+    },
+    {
+      "title": "Indoor Herb Garden",
+      "description": "Setting up a kitchen herb garden.",
+      "image": "herb-garden.jpg",
+      "date": "2023-09-01"
+    },
+    {
+      "title": "Backyard Vegetable Patch",
+      "description": "Preparing and planting a variety of vegetables.",
+      "image": "vegetable-patch.jpg",
+      "date": "2023-07-10"
+    },
+    {
+      "title": "Succulent Collection",
+      "description": "Expanding my collection of unique succulent plants.",
+      "image": "succulents.jpg",
+      "date": "2023-06-25"
+    },
+    {
+      "title": "Vertical Garden Experiment",
+      "description": "Trying out vertical gardening techniques for small spaces.",
+      "image": "vertical-garden.jpg",
+      "date": "2023-09-20"
+    }
+  ]
+}
+
